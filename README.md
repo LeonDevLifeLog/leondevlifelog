@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 - ⚡ Fun fact: I'am a developer!
+- :cloud: Embracing cloud-native
 <!--
 **LeonDevLifeLog/leondevlifelog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
